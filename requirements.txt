@@ -4,3 +4,4 @@ langchain-core
 streamlit
 chromadb
 tiktoken
+bs4
